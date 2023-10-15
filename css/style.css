@@ -1201,3 +1201,19 @@ footer h6 {
     margin-bottom: 0;
   }
 }
+.animate__animated.animate__bounce {
+  --animate-duration: 3s;
+}
+
+.animate__animated.animate__backInLeft {
+  --animate-duration: 3s;
+  --animate-delay: 0.9s;
+}
+.animate__animated.animate__lightSpeedInLeft {
+  --animate-duration: 3s;
+  --animate-delay: 0.9s;
+}
+.animate__animated.animate__jello {
+  --animate-duration: 4s;
+  --animate-delay: 0.9s;
+}
